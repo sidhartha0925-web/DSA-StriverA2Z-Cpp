@@ -1,3 +1,12 @@
+// Problem: Print a right-angled triangle star pattern
+// Input: n = 4
+// Output:
+// *
+// **
+// ***
+// ****
+//sidhartha thota
+
 #include<bits/stdc++.h>
 using namespace std;
 void print (int n)
