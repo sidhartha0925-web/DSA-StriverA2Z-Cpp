@@ -27,7 +27,7 @@ void print(int n)
         }
         cout<<endl;
     }
-}
+}g
 int main()
 {
     int n;
