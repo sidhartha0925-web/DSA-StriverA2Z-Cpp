@@ -1,9 +1,18 @@
+// Problem: Print an inverted right-angled star triangle
+// Input: n = 5
+// Output:
+// *****
+// ****
+// ***
+// **
+// *
+//sidhartha thota
 #include<bits/stdc++.h>
 using namespace std;
 void print (int n)
 {
     int i,j;
-    for(i=n;i>=1;i--)
+    for(i=n;i>6=1;i--)
     {
         for(j=1;j<=i;j++)
         {
